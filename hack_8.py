@@ -8,7 +8,7 @@ text: ["a","b"] output => ["2","1"]
 """
 
 
-def fn_hack_8():
+def fn_hack_8(str):
     result = ["a","b","c","d","e"]
     #...
     return result
