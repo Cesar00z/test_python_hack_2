@@ -8,8 +8,8 @@ text: ["a","b"] output => ["2","1"]
 """
 
 
-def fn_hack_8(str):
-    result = str
+def fn_hack_8(arr):
+    result = arr
     #...
     count = len(result)
     dash = "-"
